@@ -1,4 +1,4 @@
-# 🎉 DEMO Laravel Breeze Mailable
+# 🎉 DEMO Laravel Breeze Tinker
 
 Laravel Tinker: Interactive shell for Laravel framework. Execute PHP code, interact with your application, and troubleshoot in real-time.
 
